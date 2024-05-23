@@ -1,0 +1,1 @@
+I under Internship with Prodigy Info Tech Completed this project , By the completion of this project I understud how Decision tree is made to find the Final Output based on the Behavior of the given input.
